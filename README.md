@@ -1,2 +1,2 @@
 # Test
-Test Reposittory
+Test Reposittory for git command registration
